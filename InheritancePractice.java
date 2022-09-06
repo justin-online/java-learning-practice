@@ -35,5 +35,4 @@ public static void main(String args) {
     Arm daddysArm = new Arm();
 
     Arm.throw();
-
 }
